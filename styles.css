@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #aa2aff;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #4a40a7;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #e62f0f;
     font-weight: 600;
 }
 
@@ -102,7 +102,7 @@ h2 {
     color: var(--laranja-claro);
 }
 
-#galeria {
+#galeria {https://github.com/melissasantos2/projeto-de-vida
     background-color: #FAF4F4;
 
 }
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #c74cb2;
     border: none;
     font-weight: bold;
 }
